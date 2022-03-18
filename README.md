@@ -9,3 +9,5 @@ Al cual para darle un poco de valor agregado, he modificado y agregado algunas c
 - Colores Hexadecimales donde se pueden obtener todos los colores hexadecimales existentes.
 - Colores RGBA donde también se pueden obtener todos los colores hexadecimales existentes.
 
+# Probar el Color Flipper
+En el siguiente link se puede probar el Color Flipper creado: https://macalui00.github.io/ColorFlipper/
